@@ -17,4 +17,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses time module
+- supports windows
